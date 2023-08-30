@@ -10,7 +10,7 @@
 
 🌟 Vamos construir o futuro juntos! Explore meus projetos e acompanhe minha jornada de aprendizado e evolução. Sua colaboração e feedback são muito bem-vindos.
 
-📫 Entre em contato: matheus.dev@gmail.com
+📫 Entre em contato: matheusjaconis@gmail.com
 
 
 💻 Atualmente desenvolvendo e criando com:
