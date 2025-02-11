@@ -21,6 +21,8 @@ Sou um profissional em transição de carreira da área de vendas de seguros par
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfjaconis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfjaconis&hide_progress=false)
 
