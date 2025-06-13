@@ -10,7 +10,6 @@ Sou um profissional em transição de carreira da área de vendas de seguros par
 
 💻 Atualmente desenvolvendo e criando com:
 
-![Angular Badge](https://img.shields.io/badge/angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
