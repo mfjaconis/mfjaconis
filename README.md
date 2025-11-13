@@ -1,30 +1,63 @@
-👋 Olá, eu sou o Matheus!
+# Matheus Fernandes Jaconis  
+**Desenvolvedor Full Stack Júnior | React • TypeScript • Node.js • NestJS | Produtos White-Label & Arquitetura Escalável**
 
-Sou um profissional em transição de carreira da área de vendas de seguros para o Desenvolvimento Web. Com experiência em tecnologias como CSS, JavaScript, TypeScript, Node.js e React. Atualmente, estou expandindo minhas habilidades para incluir Java, a fim de diversificar minha expertise e me adaptar às necessidades do mercado.
+Sou Desenvolvedor Full Stack Júnior com experiência prática no desenvolvimento de aplicações modernas, responsivas e escaláveis. Atuo na criação de **APIs REST**, interfaces de alta performance e no desenvolvimento de **produtos white-label**, garantindo modularidade, reuso e adaptação para múltiplos clientes.
 
-🌟 Vamos construir o futuro juntos! Explore meus projetos e acompanhe minha jornada de aprendizado e evolução. Sua colaboração e feedback são muito bem-vindos.
+Tenho vivência com **sistemas em produção**, boas práticas de arquitetura e participação ativa em times ágeis. Meu foco é escrever código limpo, evoluir continuamente e contribuir para produtos digitais que geram valor.
 
-📫 **E-mail:** [matheusjaconis@gmail.com](mailto:matheusjaconis@gmail.com)  
+---
 
-📲 **Telefone:** (11) 98792-7573
+## 🔍 Principais Competências
 
-💻 Atualmente desenvolvendo e criando com:
+### **Front-end**
+- React.js  
+- TypeScript  
+- JavaScript  
+- Redux Toolkit  
+- Styled Components  
+- Vue.js  
+- HTML5 / CSS3 / SASS
 
-![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+### **Back-end**
+- Node.js  
+- Express  
+- NestJS  
+- Prisma ORM  
+- Sequelize  
+- APIs REST  
+- Autenticação e autorização  
+- Arquitetura em Camadas  
 
+### **Banco de Dados**
+- PostgreSQL  
+- MongoDB  
+- Docker  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfjaconis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### **Boas Práticas**
+- Clean Code  
+- SOLID  
+- Componentização  
+- Escalabilidade  
+- Versionamento organizado  
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfjaconis&hide_progress=false)
+## 🏗️ Experiência com Produtos White-Label
 
-📚 Aprendendo:
+Participei do desenvolvimento de soluções **multi-cliente**, onde o mesmo produto atendia diferentes empresas com:
 
-![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
+- Configurações dinâmicas  
+- Módulos habilitáveis  
+- Fluxos e regras customizadas  
+
+Essa vivência trouxe experiência sólida em **arquitetura escalável**, modularização e padronização de código.
+
+---
+
+## 📬 Contato
+
+📧 **E-mail:** matheusjaconis@gmail.com  
+📱 **Telefone:** (11) 98792-7573  
+🔗 **LinkedIn:** https://www.linkedin.com/in/matheus-jaconis/  
+
+---
