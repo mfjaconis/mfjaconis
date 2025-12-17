@@ -1,63 +1,70 @@
-# Matheus Fernandes Jaconis  
-**Desenvolvedor Full Stack Júnior | React • TypeScript • Node.js • NestJS | Produtos White-Label & Arquitetura Escalável**
+# 👋 Olá! Eu sou Matheus Fernandes Jaconis
 
-Sou Desenvolvedor Full Stack Júnior com experiência prática no desenvolvimento de aplicações modernas, responsivas e escaláveis. Atuo na criação de **APIs REST**, interfaces de alta performance e no desenvolvimento de **produtos white-label**, garantindo modularidade, reuso e adaptação para múltiplos clientes.
-
-Tenho vivência com **sistemas em produção**, boas práticas de arquitetura e participação ativa em times ágeis. Meu foco é escrever código limpo, evoluir continuamente e contribuir para produtos digitais que geram valor.
+Sou **Desenvolvedor Full Stack Júnior** com foco em **React, TypeScript e Node.js**.  
+Tenho experiência prática no desenvolvimento de aplicações web modernas, integração com APIs REST e organização de código seguindo boas práticas.
 
 ---
 
-## 🔍 Principais Competências
+## 💡 Principais Tecnologias
 
-### **Front-end**
-- React.js  
-- TypeScript  
-- JavaScript  
-- Redux Toolkit  
-- Styled Components  
-- Vue.js  
-- HTML5 / CSS3 / SASS
+### Front-end
+- React.js · TypeScript · JavaScript
+- Redux Toolkit · Styled-Components
+- Vue.js · Angular
+- HTML5 · CSS3 · SASS
 
-### **Back-end**
-- Node.js  
-- Express  
-- NestJS  
-- Prisma ORM  
-- Sequelize  
-- APIs REST  
-- Autenticação e autorização  
-- Arquitetura em Camadas  
+### Back-end
+- Node.js · Express · Fastify
+- APIs REST
+- Prisma ORM · Sequelize
 
-### **Banco de Dados**
-- PostgreSQL  
-- MongoDB  
-- Docker  
+### Banco de Dados
+- PostgreSQL · MongoDB
+- Docker
 
-### **Boas Práticas**
-- Clean Code  
-- SOLID  
-- Componentização  
-- Escalabilidade  
-- Versionamento organizado  
+### Boas Práticas
+- Clean Code · SOLID
+- Componentização
+- Arquitetura em camadas
+- Versionamento com Git
 
 ---
 
-## 🏗️ Experiência com Produtos White-Label
+## 🚀 Projetos em Destaque
 
-Participei do desenvolvimento de soluções **multi-cliente**, onde o mesmo produto atendia diferentes empresas com:
-
-- Configurações dinâmicas  
-- Módulos habilitáveis  
-- Fluxos e regras customizadas  
-
-Essa vivência trouxe experiência sólida em **arquitetura escalável**, modularização e padronização de código.
+### 🍔 **eFood App**
+Aplicação web para listagem de restaurantes e cardápios, com gerenciamento de estado e foco em experiência do usuário.  
+**Tecnologias:** React, TypeScript, Redux Toolkit, styled-components  
+🔗 https://github.com/mfjaconis/efood_app_react
 
 ---
 
-## 📬 Contato
-
-📧 **E-mail:** matheusjaconis@gmail.com  
-📱 **Telefone:** (11) 98792-7573  
-🔗 **LinkedIn:** https://www.linkedin.com/in/matheus-jaconis/  
+### 🧑‍💼 **Portfólio em React**
+Portfólio pessoal desenvolvido para apresentar projetos, habilidades e informações profissionais.  
+**Tecnologias:** React, TypeScript, CSS  
+🔗 https://github.com/mfjaconis/portfolio_react
 
 ---
+
+### 🌍 **Cities API**
+API REST desenvolvida em TypeScript para gerenciamento de dados e regras de negócio.  
+**Tecnologias:** Node.js, TypeScript  
+🔗 https://github.com/mfjaconis/cities_api
+
+---
+
+### 🎬 **Jaconis Movies**
+Aplicação front-end para listagem de filmes, consumindo a API pública do TheMovieDB.  
+**Tecnologias:** React, JavaScript  
+🔗 https://github.com/mfjaconis/react-jaconis-movies
+
+---
+
+## 📫 Contato
+
+📧 **Email:** matheusjaconis@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/matheus-jaconis  
+
+---
+
+✨ Estou sempre em busca de aprendizado contínuo e novos desafios na área de desenvolvimento.
