@@ -1,62 +1,57 @@
 # 👋 Olá! Eu sou Matheus Fernandes Jaconis
 
-Sou **Desenvolvedor Full Stack Júnior** com foco em **React, TypeScript e Node.js**.  
-Tenho experiência prática no desenvolvimento de aplicações web modernas, integração com APIs REST e organização de código seguindo boas práticas.
+**Software Engineer** com foco em **Java · Spring Boot · Node.js · Python · APIs REST** e direção clara para o **setor financeiro e bancário**.
+
+Atuo no desenvolvimento de aplicações corporativas, integrações entre sistemas e soluções que exigem estabilidade, consistência de dados e alta disponibilidade. Busco evoluir na construção de plataformas escaláveis, APIs robustas e sistemas capazes de operar em ambientes críticos como os do mercado financeiro.
+
+---
+
+## 🎯 Objetivo profissional
+
+Contribuir em times de engenharia de software instituições financeiras, bancos e fintechs, no desenvolvimento de backend, integrações e serviços de alta confiabilidade com foco em performance, segurança, resiliência e qualidade das entregas.
+
+---
+
+## 💼 Atuação atual
+
+- Desenvolvimento e evolução de soluções integradas ao ecossistema **SAP Business One**
+- Construção de **APIs REST** e integrações entre sistemas corporativos
+- Processamento de dados, regras de negócio e otimização com **SQL / SAP HANA**
+- Investigação e resolução de incidentes em produção
+- Evolução contínua das aplicações visando escalabilidade e manutenibilidade
 
 ---
 
 ## 💡 Principais Tecnologias
 
-### Front-end
-- React.js · TypeScript · JavaScript
-- Redux Toolkit · Styled-Components
-- Vue.js · Angular
-- HTML5 · CSS3 · SASS
+### Backend
+- Java · Spring Boot · Node.js · TypeScript · JavaScript · Python
+- APIs REST · microsserviços · mensageria (RabbitMQ · Kafka em estudo)
 
-### Back-end
-- Node.js · Express · Fastify
-- APIs REST
-- Prisma ORM · Sequelize
+### Frontend
+- React · Vue.js · TypeScript · JavaScript
+- HTML5 · CSS3
 
-### Banco de Dados
-- PostgreSQL · MongoDB
-- Docker
+### Dados
+- PostgreSQL · SQL · SAP HANA
+- Redis
 
-### Boas Práticas
+### Cloud & infraestrutura
+- Fundamentos de **AWS** (Lambda · EC2)  — em desenvolvimento 
+- Docker · Git
+- DevOps / CI/CD / Kubernetes — em desenvolvimento 
+
+### Arquitetura & práticas
+- Sistemas distribuídos · Arquitetura Hexagonal · DDD (em aprofundamento)
 - Clean Code · SOLID
-- Componentização
-- Arquitetura em camadas
-- Versionamento com Git
+- Interesse em observabilidade, resiliência e cultura SRE aplicadas a plataformas financeiras
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🎓 Formação & estudos
 
-### 🍔 **eFood App**
-Aplicação web para listagem de restaurantes e cardápios, com gerenciamento de estado e foco em experiência do usuário.  
-**Tecnologias:** React, TypeScript, Redux Toolkit, styled-components  
-🔗 https://github.com/mfjaconis/efood_app_react
-
----
-
-### 🧑‍💼 **Portfólio em React**
-Portfólio pessoal desenvolvido para apresentar projetos, habilidades e informações profissionais.  
-**Tecnologias:** React, TypeScript, CSS  
-🔗 https://github.com/mfjaconis/portfolio_react
-
----
-
-### 🌍 **Cities API**
-API REST desenvolvida em TypeScript para gerenciamento de dados e regras de negócio.  
-**Tecnologias:** Node.js, TypeScript  
-🔗 https://github.com/mfjaconis/cities_api
-
----
-
-### 🎬 **Jaconis Movies**
-Aplicação front-end para listagem de filmes, consumindo a API pública do TheMovieDB.  
-**Tecnologias:** React, JavaScript  
-🔗 https://github.com/mfjaconis/react-jaconis-movies
+- **Sistemas de Informação** — UNINOVE
+- Estudos em andamento voltados ao mercado financeiro: Java, Spring Boot, Python, AWS, microsserviços, Kafka, mensageria, Docker e boas práticas de arquitetura
 
 ---
 
@@ -64,7 +59,8 @@ Aplicação front-end para listagem de filmes, consumindo a API pública do TheM
 
 📧 **Email:** matheusjaconis@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-jaconis  
+🐙 **GitHub:** https://github.com/mfjaconis
 
 ---
 
-✨ Estou sempre em busca de aprendizado contínuo e novos desafios na área de desenvolvimento.
+✨ Em constante evolução — com foco em engenharia de software para o setor financeiro e bancário.
